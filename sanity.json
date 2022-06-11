@@ -12,7 +12,10 @@
     "@sanity/default-layout",
     "@sanity/default-login",
     "@sanity/code-input",
-    "@sanity/desk-tool"
+    "@sanity/desk-tool",
+    "dashboard-widget-netlify",
+    "@sanity/dashboard",
+    "vercel-deploy"
   ],
   "env": {
     "development": {
