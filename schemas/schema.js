@@ -47,7 +47,12 @@ export default createSchema({
           name: 'subtitle',
           type: 'string',
           title: 'Subtitle'
-        },        
+        },   
+        {
+          name: 'category',
+          type: 'string',
+          title: 'Category'
+        }, 
         {
           name: 'coverImage',
           title: 'Cover Image',
